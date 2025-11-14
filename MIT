@@ -1,0 +1,15 @@
+
+---
+
+## GitHub Repo Hazır!
+
+Şimdi şu adımları yap:
+
+```bash
+mkdir crittersmash && cd crittersmash
+# Yukarıdaki tüm dosyaları oluştur
+git init
+git add .
+git commit -m "feat: CritterSmash v1 - Celo + Reown + Claim"
+git remote add origin https://github.com/sinirlibiber/CritterSmash.git
+git push -u origin main
