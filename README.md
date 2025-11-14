@@ -12,7 +12,7 @@
 
 ---
 
-!https://lh3.googleusercontent.com/gg-dl/ABS2GSl7u76s21qkXyF4XJzkH2jgiJ7KJUilxHjY2PVOjr_LCVgkLQ2mCBl0fi7oVHnymVdXnfIjAaajc-KIc81hpzQQvh_BeVTMacVd6njnvLACOyQXWISkt-mW0s33cjnTK822PwCKyoLQBuM8ayRpzkeYKnlKwNxoXUko-_mBLQr-kzpiJg=s1024-rj
+!(https://lh3.googleusercontent.com/gg-dl/ABS2GSl7u76s21qkXyF4XJzkH2jgiJ7KJUilxHjY2PVOjr_LCVgkLQ2mCBl0fi7oVHnymVdXnfIjAaajc-KIc81hpzQQvh_BeVTMacVd6njnvLACOyQXWISkt-mW0s33cjnTK822PwCKyoLQBuM8ayRpzkeYKnlKwNxoXUko-_mBLQr-kzpiJg=s1024-rj)
 
 ## 🎮 Overview
 CritterSmash on Celo is a blockchain-based casual game built on Celo Mainnet, where players smash critters, earn points, and claim on-chain rewards.
