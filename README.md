@@ -11,8 +11,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
+![unnamed (3)](https://github.com/user-attachments/assets/70e3d2b2-0826-42ec-8ab7-61b41015c152)
 
-<img src="https://hizliresim.com/he1y42q"="400">
+
 ## 🎮 Overview
 CritterSmash on Celo is a blockchain-based casual game built on Celo Mainnet, where players smash critters, earn points, and claim on-chain rewards.
 The game uses React + TypeScript + Vite with Reown AppKit, wagmi, and a Cloudflare backend for claim verification.
