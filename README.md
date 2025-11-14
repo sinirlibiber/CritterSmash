@@ -46,3 +46,30 @@ cd CritterSmash
 ```bash
 npm install
 ```
+
+## Farcaster Frame
+
+Bu oyun **Farcaster Frame** olarak da çalışır!
+
+### Nasıl Oynanır?
+1. Warpcast'te bu postu gör:
+   > 🕳️ **CritterSmash – Smash & Earn!**  
+   > [Play Frame](https://crittersmash.xyz/api/frame)
+2. "Play" butonuna tıkla
+3. Cüzdanını bağla → Oyunu oyna!
+
+# 1. Frontend + Frame API
+npm run build
+vercel --prod  # veya cloudflare pages
+
+# 2. Backend (Cloudflare Workers)
+cd functions
+npx wrangler deploy
+
+# 3. Contract (Hardhat)
+npx hardhat run scripts/deploy.js --network celo
+
+# 4. Farcaster'da Test
+# Warpcast → New Cast → Frame URL yapıştır
+
+
